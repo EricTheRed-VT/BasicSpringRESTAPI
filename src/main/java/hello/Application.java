@@ -4,7 +4,7 @@ package hello;
  * Created by eric on 6/23/17.
  */
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autocofigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
